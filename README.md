@@ -12,3 +12,4 @@
 # Computer skills
 - Sql
 - Java 
+- Power Bi
