@@ -1,9 +1,13 @@
 # Vinci
 
-Job experiences
+# Job experiences
+Project head chef
+Museum
 
+# Educations
+Leonard de Vinci
+Tunghai University 
+French school of Kuala Lumpur
 
-Educations
-
-
-Computer skills
+# Computer skills
+Sql
