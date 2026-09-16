@@ -5,10 +5,10 @@
 . Museum
 
 # Educations
-Leonard de Vinci
-Tunghai University 
-French school of Kuala Lumpur
+. Leonard de Vinci
+. Tunghai University 
+. French school of Kuala Lumpur
 
 # Computer skills
-Sql
-Java 
+. Sql
+. Java 
