@@ -1,8 +1,8 @@
 # Vinci
 
 # Job experiences
-Project head chef
-Museum
+. Project head chef
+. Museum
 
 # Educations
 Leonard de Vinci
@@ -11,3 +11,4 @@ French school of Kuala Lumpur
 
 # Computer skills
 Sql
+Java 
