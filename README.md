@@ -2,7 +2,7 @@
 
 # Job experiences
 - Project head chef
-- Museum
+- Tour Guide: Museum Histoire naturelle
 
 # Educations
 - Leonard de Vinci
