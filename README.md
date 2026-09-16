@@ -1,7 +1,7 @@
 # Dahouta Wilfried
 
 # Job experiences
-- Project head chef
+- Project head chef: Association Project
 - Tour Guide: Museum Histoire naturelle
 
 # Educations
